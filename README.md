@@ -46,3 +46,45 @@
 **Ссылки**
 1. Хоп Грегор, Вульф Бобби. Шаблоны интеграции корпоративных приложений
 2. Сэм Ньюмен. Создание микросервисов, глава 4
+
+
+#### Лекция 5. Очереди сообщений
+
+[Презентация](https://docs.google.com/presentation/d/1q7dW0Si8dbH9q910DcA7xcTA9U4dT4lb4eC_alZZFO0/edit?usp=sharing)
+
+**Ссылки**
+1. [Принципы и приёмы обработки очередей](https://habr.com/ru/company/oleg-bunin/blog/309332/)
+2. [101 способ приготовления RabbitMQ и немного о pipeline архитектуре](https://habr.com/ru/company/oleg-bunin/blog/310418/)
+3. [Очереди и блокировки. Теория и практика](https://habr.com/ru/company/oleg-bunin/blog/316458/)
+
+
+#### Лекция 6. Горизонтальное масштабирование
+
+[Презентация](https://docs.google.com/presentation/d/1iBqPaXz9J1fr0pV8yAb-W_WCdcc9YoVxtw4r4NC4mIs/edit?usp=sharing)
+
+**Ссылки**
+1. [Общая логика масштабирования](http://highload.guide/blog/scaling-logic.html)
+2. [Масштабирование бэкенда](https://xakep.ru/2012/11/30/backend-zoom/)
+3. [Горизонтальное масштабирование. Что, зачем, когда и как](http://highload.guide/blog/scaling-what-why-when-and-how.html)
+4. [Как мы сделали ровную балансировку нагрузки на фронтенд-кластере](http://highload.guide/blog/load-balancing-frontend-cluster.html)
+
+
+
+#### Лекция 7. Кэширование
+
+[Презентация](https://docs.google.com/presentation/d/1T2idapTFR93Rj9joDxU07z7wXLdUOnDIBAzPKNOEWSI/edit?usp=sharing)
+
+**Ссылки**
+1. [Web, кэширование и memcached](http://highload.guide/blog/web-caching-memcached.html)
+2. [Кэширование данных в web приложениях. Использование memcached](http://highload.guide/blog/caching-data-in-web-applications.html)
+3. [Использование memcached и Redis в высоконагруженных проектах](http://highload.guide/blog/using-memcached-and-redis.html)
+
+
+
+#### Лекция 8. Масштабирование БД
+
+[Презентация](https://docs.google.com/presentation/d/1ijCzq1pHHi8TDrvTigNDqTnMDJx6Rl-pp38e_Sf_Vms/edit?usp=sharing)
+
+**Ссылки**
+1. Мартин Клеппман. Высоконагруженные приложения. Программирование, масштабирование, поддержка. Главы 5, 6
+2. [Шардинг: паттерны и антипаттерны](https://habr.com/ru/company/oleg-bunin/blog/313366/)
