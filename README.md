@@ -37,6 +37,7 @@
 **Ссылки**
 1. [NoSQL – коротко о главном](https://habr.com/ru/company/oleg-bunin/blog/319052/)
 2. Мартин Клеппман. Высоконагруженные приложения. Программирование, масштабирование, поддержка. Глава 2
+3. [CQRS documents](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 
 
 #### Лекция 4. Коммуникация приложений
@@ -67,7 +68,6 @@
 2. [Масштабирование бэкенда](https://xakep.ru/2012/11/30/backend-zoom/)
 3. [Горизонтальное масштабирование. Что, зачем, когда и как](http://highload.guide/blog/scaling-what-why-when-and-how.html)
 4. [Как мы сделали ровную балансировку нагрузки на фронтенд-кластере](http://highload.guide/blog/load-balancing-frontend-cluster.html)
-
 
 
 #### Лекция 7. Кэширование
