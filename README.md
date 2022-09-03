@@ -40,7 +40,7 @@
 3. [CQRS documents](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 
 
-#### Лекция 4. Коммуникация приложений
+### Лекция 4. Коммуникация приложений
 
 [Презентация](https://docs.google.com/presentation/d/1v1GFzivKFbnHxZFLRuftByF8O1mXzlv-zTKSVPOBA74/edit?usp=sharing)
 
@@ -49,7 +49,7 @@
 2. Сэм Ньюмен. Создание микросервисов, глава 4
 
 
-#### Лекция 5. Очереди сообщений
+### Лекция 5. Очереди сообщений
 
 [Презентация](https://docs.google.com/presentation/d/1q7dW0Si8dbH9q910DcA7xcTA9U4dT4lb4eC_alZZFO0/edit?usp=sharing)
 
@@ -59,7 +59,7 @@
 3. [Очереди и блокировки. Теория и практика](https://habr.com/ru/company/oleg-bunin/blog/316458/)
 
 
-#### Лекция 6. Горизонтальное масштабирование
+### Лекция 6. Горизонтальное масштабирование
 
 [Презентация](https://docs.google.com/presentation/d/1iBqPaXz9J1fr0pV8yAb-W_WCdcc9YoVxtw4r4NC4mIs/edit?usp=sharing)
 
@@ -70,7 +70,7 @@
 4. [Как мы сделали ровную балансировку нагрузки на фронтенд-кластере](http://highload.guide/blog/load-balancing-frontend-cluster.html)
 
 
-#### Лекция 7. Кэширование
+### Лекция 7. Кэширование
 
 [Презентация](https://docs.google.com/presentation/d/1T2idapTFR93Rj9joDxU07z7wXLdUOnDIBAzPKNOEWSI/edit?usp=sharing)
 
@@ -80,8 +80,7 @@
 3. [Использование memcached и Redis в высоконагруженных проектах](http://highload.guide/blog/using-memcached-and-redis.html)
 
 
-
-#### Лекция 8. Масштабирование БД
+### Лекция 8. Масштабирование БД
 
 [Презентация](https://docs.google.com/presentation/d/1ijCzq1pHHi8TDrvTigNDqTnMDJx6Rl-pp38e_Sf_Vms/edit?usp=sharing)
 
