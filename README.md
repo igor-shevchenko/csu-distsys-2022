@@ -87,3 +87,24 @@
 **Ссылки**
 1. Мартин Клеппман. Высоконагруженные приложения. Программирование, масштабирование, поддержка. Главы 5, 6
 2. [Шардинг: паттерны и антипаттерны](https://habr.com/ru/company/oleg-bunin/blog/313366/)
+
+
+## Практика
+
+### Практика 1. Контейнеризация и Docker
+
+![](diagrams/lab1.png)
+
+[Презентация](https://docs.google.com/presentation/d/1LZIROK9qOy4_B01JgWftwZYblGwm4UZ-izBq5nZacHM/edit?usp=sharing)
+
+**Задание**
+1. Написать  веб-сервер, который принимает HTTP-запрос и отдает ответ «Hello world»
+2. Установить Docker
+3. Написать Dockerfile и запустить веб-сервер в докер-контейнере так, чтобы к нему можно было обратиться с хост-машины
+
+**Ссылки**
+1. [Установка Docker](https://docs.docker.com/get-docker/)
+2. [Документация по Docker](https://docs.docker.com/get-started/)
+3. [Документация по Dockerfile](https://docs.docker.com/engine/reference/builder/)
+4. [Порядок команд в Dockerfile](https://medium.com/@esotericmeans/optimizing-your-dockerfile-dc4b7b527756)
+5. [Multi-stage builds для компилируемых языков](https://docs.docker.com/develop/develop-images/multistage-build/)
