@@ -110,6 +110,28 @@
 5. [Multi-stage builds для компилируемых языков](https://docs.docker.com/develop/develop-images/multistage-build/)
 
 
+### Практика 2. Взаимодействие контейнеров
+
+![](diagrams/lab2.png)
+
+[Презентация](https://docs.google.com/presentation/d/16CWXqHiGsEM6ieH60OVCy2KYqLKKK5ok1Awe7r6_GLM/edit?usp=sharing)
+
+**Задание**
+1. Дописать приложение, чтобы оно содержало два эндпоинта
+  * POST /links — сохраняет ссылку в БД и возвращает ее id
+  * GET /links/<id> — отдает ссылку из БД по id
+2. Добавить контейнер с PostgreSQL и настроить его взаимодействие с приложением
+3. Настроить запуск обоих контейнеров через Docker Compose
+
+**Ссылки**
+1. [12-факторное приложение](https://12factor.net/)
+2. [Postgres по Docker Hub](https://hub.docker.com/_/postgres)
+3. [Сеть в Docker](https://docs.docker.com/network/network-tutorial-standalone/)
+4. [Volumes в Docker](https://docs.docker.com/storage/volumes/)
+5. [Docker Compose](https://docs.docker.com/compose/)
+6. [Документация по docker-compose.yml](https://docs.docker.com/compose/compose-file/)
+
+
 ## Итоговая оценка
  
 ### Баллы за практические задачи
