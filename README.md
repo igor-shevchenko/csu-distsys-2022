@@ -131,6 +131,22 @@
 5. [Docker Compose](https://docs.docker.com/compose/)
 6. [Документация по docker-compose.yml](https://docs.docker.com/compose/compose-file/)
 
+### Практика 3. Работа с RabbitMQ
+
+![](diagrams/lab3.png)
+
+[Презентация](https://docs.google.com/presentation/d/1RZSa4e2xxS06PfAvgYiFazTukE9Fg1WzO7LvMFDvIXI/edit?usp=sharing)
+
+**Задание**
+1. Добавить контейнер с RabbitMQ
+2. В приложении добавить в модель ссылки поле «статус», добавить эндпоинт PUT /links/<id> для обновления статуса ссылки. При добавлении ссылки отправлять ее в очередь сообщений
+3. Добавить консьюмер, который слушает очередь сообщений и получает все новые ссылки, делает запрос к ним и сохраняет HTTP-статус ответа через новый эндпоинт приложения. 
+
+**Ссылки**
+1. [RabbitMQ на Docker Hub](https://hub.docker.com/_/rabbitmq)
+2. [Тьюториал по RabbitMQ](https://www.rabbitmq.com/getstarted.html)
+3. [Healthchecks в docker-compose](https://stackoverflow.com/questions/31746182/docker-compose-wait-for-container-x-before-starting-y )
+
 
 ## Итоговая оценка
  
