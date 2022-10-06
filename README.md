@@ -110,6 +110,7 @@
 5. [Multi-stage builds для компилируемых языков](https://docs.docker.com/develop/develop-images/multistage-build/)
 
 
+
 ### Практика 2. Взаимодействие контейнеров
 
 ![](diagrams/lab2.png)
@@ -131,6 +132,7 @@
 5. [Docker Compose](https://docs.docker.com/compose/)
 6. [Документация по docker-compose.yml](https://docs.docker.com/compose/compose-file/)
 
+ 
 ### Практика 3. Работа с RabbitMQ
 
 ![](diagrams/lab3.png)
@@ -147,6 +149,7 @@
 2. [Тьюториал по RabbitMQ](https://www.rabbitmq.com/getstarted.html)
 3. [Healthchecks в docker-compose](https://stackoverflow.com/questions/31746182/docker-compose-wait-for-container-x-before-starting-y )
 
+ 
 ### Практика 4. Балансировка нагрузки через nginx
 
 ![](diagrams/lab4.png)
@@ -161,6 +164,22 @@
 1. [nginx на Docker Hub](https://hub.docker.com/_/nginx)
 2. [Документация по nginx](http://nginx.org/ru/docs/beginners_guide.html)
 3. [Балансировка нагрузки в nginx](http://nginx.org/en/docs/http/load_balancing.html)
+ 
+
+### Практика 5. Кэширование в Redis
+
+![](diagrams/lab5.png)
+
+[Презентация](https://docs.google.com/presentation/d/1qrn75ot8MPivvFHEZOKw5IvrIrBd6c_Iui6NtEZmuF0/edit?usp=sharing)
+
+**Задание**
+1. Добавить контейнер с Redis
+2. Добавить в коде консьюмера использование Redis в качестве кэша для ответов от внешних сервисов
+
+
+**Ссылки**
+1. [Redis на Docker Hub](https://hub.docker.com/_/redis)
+2. [Документация по Redis (введение)](https://redis.io/topics/data-types-intro)
 
 
 ## Итоговая оценка
@@ -196,3 +215,8 @@
 | 140 | 160 |  **3** |
 | 165 | 180 |  **4** |
 | 185 | 200 |  **5** |
+ 
+ 
+## Курсовые работы
+ 
+[Презентация](https://docs.google.com/presentation/d/12MxBuJa7GyGmqgzNIkchcDpYIXforI0dPUP8XSn3bn4/edit?usp=sharing)
